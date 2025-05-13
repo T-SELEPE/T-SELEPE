@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi There 👋 <br>I'm Tshepo Selepe , A front-end web developer and designer. 🌐🔨 <br>I have a background 6 Months being a UI Designer and I am currently a freelance web developer 💻<br>An Information Technology Graduate 👨‍🎓<br>My Tech Stack is Html , CSS, Javascript & React.Js.👩‍💻<br>I am proficient in design tools such as Figma and Adobe XD too<br>I am currently learning React-Native to enable myself to build cross platform applications.<br>I enjoy handling Code.<br>I love fast cars and the latest technology gadget releases 📱🚗</p>
+<p align="left">Hi There 👋 <br>I'm Tshepo Selepe , A UI/UX designer. 🌐🔨 < A strong focus on design systems, user research, and usability testing. I’m obsessed with improving, learning, and pushing my craft forward 💻<br>I hold a degree in Information Technology 👨‍🎓<br>My expertise includes working with design systems, designing, Prototyping, and wireframing reusable components in Figma, which I seamlessly translate into functional HTML, CSS, and Javascript (React—Typescript). My knowledge of frontend languages has been a significant advantage, enabling me to bridge the gap between design and engineering teams effectively..👩‍💻<br>I am proficient in design tools such as Figma and Adobe XD & Sketch<br><br>I love fast cars and the latest technology gadget releases 📱🚗</p>
 
 ###
 
