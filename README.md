@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi There 👋 <br>I'm Tshepo Selepe , A UI/UX designer. 🌐🔨 < A strong focus on design systems, user research, and usability testing. I’m obsessed with improving, learning, and pushing my craft forward 💻<br>I hold a degree in Information Technology 👨‍🎓<br>My expertise includes working with design systems, designing, Prototyping, and wireframing reusable components in Figma, which I seamlessly translate into functional HTML, CSS, and Javascript (React—Typescript). My knowledge of frontend languages has been a significant advantage, enabling me to bridge the gap between design and engineering teams effectively..👩‍💻<br>I am proficient in design tools such as Figma and Adobe XD & Sketch<br><br>I love fast cars and the latest technology gadget releases 📱🚗</p>
+<p align="left">Hi There 👋 <br>I'm Tshepo Selepe , A UI/UX designer. 🌐🔨 I have A strong focus on design systems, user research, and usability testing. I’m obsessed with improving, learning, and pushing my craft forward 💻<br>I hold a degree in Information Technology 👨‍🎓<br>My expertise includes working with design systems, designing, Prototyping, and wireframing reusable components in Figma, which I seamlessly translate into functional HTML, CSS, and Javascript (React—Typescript). My knowledge of frontend languages has been a significant advantage, enabling me to bridge the gap between design and engineering teams effectively..👩‍💻<br>I am proficient in design tools such as Figma and Adobe XD & Sketch<br><br>I love fast cars and the latest technology gadget releases 📱🚗</p>
 
 ###
 
